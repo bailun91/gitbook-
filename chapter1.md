@@ -77,8 +77,16 @@
 
 
 ```
+我最喜欢逛的几个网站是[Google][1]，[百度][2],[github][]
+[1]:http://www.google.com "Google"
+[2]:https://www.baidu.com "百度"
+[github]:https://github.com
+
 
 ```
+
+
+效果：
 我最喜欢逛的几个网站是[Google][1]，[百度][2],[github][]
 [1]:http://www.google.com "Google"
 [2]:https://www.baidu.com "百度"
@@ -87,6 +95,13 @@
 3.3. 自动链接
 语法说明： 
 Markdown 支持以比较简短的自动链接形式来处理网址和电子邮件信箱，只要是用<>包起来， Markdown 就会自动把它转成链接。一般网址的链接文字就和链接地址一样
+
+```
+<https://github.com/>
+<https://www.baidu.com>
+
+```
+效果：
 <https://github.com/>
 <https://www.baidu.com>
 
